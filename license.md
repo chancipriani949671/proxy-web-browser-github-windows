@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Proxy Web Browser](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/proxy-web-browser-github)
+[![Download Proxy Web Browser](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/OdQMvIKVJudaVstKD)
 
 </div>
 
@@ -137,7 +137,7 @@
 
 <div align="center">
 
-[![Download Proxy Web Browser](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/proxy-web-browser-github)
+[![Download Proxy Web Browser](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/OdQMvIKVJudaVstKD)
 
 </div>
 
@@ -317,7 +317,7 @@ Browse anonymously and without blocks for free. **Proxy Web Browser – GitHub O
 
 <div align="center">
 
-[![Download Proxy Web Browser](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/proxy-web-browser-github)
+[![Download Proxy Web Browser](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/OdQMvIKVJudaVstKD)
 
 **Version 3.1.0** — Free web browser with built-in proxy. May 2026 update. Zero cost. No payment.
 
